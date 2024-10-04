@@ -1,4 +1,4 @@
-package br.com.develope.cadastro_usuario;
+package br.com.develop.cadastro_usuario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package br.com.develope.cadastro_usuario;
+package br.com.develop.cadastro_usuario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
